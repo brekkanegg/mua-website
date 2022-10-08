@@ -33,7 +33,7 @@ input:-webkit-autofill:focus {
 }
 
 .background-image {
-  @apply bg-cover bg-center bg-no-repeat;
+  @apply bg-cover bg-top bg-no-repeat;
   /* padding-top:5000; */
   /* padding-left:-2000;
   margin-right:-100; */
