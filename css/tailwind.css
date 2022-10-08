@@ -34,10 +34,11 @@ input:-webkit-autofill:focus {
 
 .background-image {
   @apply bg-cover bg-center bg-no-repeat;
+  /* padding-top:5000; */
   /* padding-left:-2000;
   margin-right:-100; */
   /* background-image: url('https://images.unsplash.com/photo-1609342475528-dd7d93e8311e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=676&q=80'); */
-  background-image: url('/static/images/mua_bg.jpeg');
+  background-image: url('/static/images/mua_bg.png');
 }
 /* 
 .video-responsive {
