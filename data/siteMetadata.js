@@ -6,7 +6,7 @@ const siteMetadata = {
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://justingosses.github.io/justingosses-website/',
-  siteRepo: 'https://github.com/JustinGOSSES/justingosses-website',
+  siteRepo: 'https://github.com/brekkanegg/mua-website',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',

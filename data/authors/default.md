@@ -1,6 +1,6 @@
 ---
 name: 소연, 민기
-avatar: /static/images/MuaPhoto.jpg #JustinPhoto.jpg
+avatar: /static/images/mua_photo.png #JustinPhoto.jpg
 occupation:
 # company: Company
 # email: address@yoursite.com
