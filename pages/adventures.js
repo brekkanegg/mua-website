@@ -13,8 +13,7 @@ export default function Adventures() {
             Gallery
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            {/* Showcase your projects with a hero image (16 x 9) */}A few more visual code projects
-            and doodles. More listed on the side projects page.
+            {/* Showcase your projects with a hero image (16 x 9) */}
           </p>
         </div>
         <div className="container py-12">
