@@ -5,7 +5,7 @@ const siteMetadata = {
   description: "MUA's private website",
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://justingosses.github.io/justingosses-website/',
+  siteUrl: 'https://mua-website.vercel.app',
   siteRepo: 'https://github.com/brekkanegg/mua-website',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
