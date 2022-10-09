@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: "MUA's Website",
   author: 'MUA',
-  headerTitle: 'MUA',
+  headerTitle: '소연과 민기',
   description: "MUA's private website",
   language: 'en-us',
   theme: 'system', // system, dark or light
